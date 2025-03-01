@@ -43,7 +43,8 @@
     "gsap animation",
     "animation tool",
     "web animation",
-    "motion react"
+    "motion react",
+    "gsap react"
   ],
   "devDependencies": {
     "@eslint/js": "^9.21.0",
