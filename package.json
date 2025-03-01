@@ -20,6 +20,31 @@
     "lint": "eslint .",
     "test": "vitest run"
   },
+  "author": "Kingshuk Mondal",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImKKingshuk/AnimateX.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ImKKingshuk/AnimateX/issues"
+  },
+  "homepage": "https://github.com/ImKKingshuk/AnimateX#readme",
+  "keywords": [
+    "animation",
+    "react animation",
+    "animate on scroll",
+    "framer motion",
+    "motion",
+    "animatex",
+    "AnimateX",
+    "css animation",
+    "gsap",
+    "gsap animation",
+    "animation tool",
+    "web animation",
+    "motion react"
+  ],
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "@rsbuild/plugin-react": "^1.1.1",
@@ -40,7 +65,6 @@
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
   },
-  "private": true,
   "dependencies": {
     "motion": "^12.4.7"
   }
